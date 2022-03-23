@@ -1,0 +1,257 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_CD7B0146_DEEC_2B7C_41CF_7A0B38831713.url = https://rebrand.ly/Cross_Stations_Introduction
+PopupWebFrameBehaviour_A9EA0EA5_B8A9_FE3F_41D0_97E9131C3281.url = https://rebrand.ly/Exhibition_2
+PopupWebFrameBehaviour_AAAB9BAD_B8AF_A60F_41D5_39B26F9B6832.url = https://rebrand.ly/Exhibition_3
+PopupWebFrameBehaviour_AA8F592B_B8AB_620E_41D9_22504594DD4F.url = https://rebrand.ly/Exhibition_6
+PopupWebFrameBehaviour_391577B0_2886_EDFF_41BE_CD0A8AA0D283.url = https://rebrand.ly/Jesus_and_Mary
+PopupWebFrameBehaviour_319F04D6_2886_63A3_4194_5918FEB736B7.url = https://rebrand.ly/Jesus_and_Mary
+PopupWebFrameBehaviour_CCAAA8BB_DEEC_5914_41DB_DD6EA148620A.url = https://rebrand.ly/Look_At_This_Introduction
+PopupWebFrameBehaviour_3A83AA9E_288B_E7A3_41C0_C02226C19FE7.url = https://rebrand.ly/St_Anthony_of_Padua
+PopupWebFrameBehaviour_3AA626A2_2886_AFE3_41BA_7B0273FA112C.url = https://rebrand.ly/St_Anthony_of_Padua
+PopupWebFrameBehaviour_39B6716D_288B_E561_41BB_2A089C5416A7.url = https://rebrand.ly/St_Bernadette
+PopupWebFrameBehaviour_3437815B_28BE_A2A1_419F_13C1D0842609.url = https://rebrand.ly/St_Gerard
+PopupWebFrameBehaviour_332D3F93_2885_BDA1_415A_98DF31BF9DA6.url = https://rebrand.ly/St_Gerard
+PopupWebFrameBehaviour_0DD9F0D6_289A_A3A3_41A4_518B83F85182.url = https://rebrand.ly/St_John_Vianney
+PopupWebFrameBehaviour_3A6517A4_28BA_EDE7_41B3_A906AA38BC6F.url = https://rebrand.ly/St_John_Vianney
+PopupWebFrameBehaviour_35DC7F56_28BE_FEA3_41B0_1F744DCFFF41.url = https://rebrand.ly/St_Joseph
+PopupWebFrameBehaviour_7F21A741_29EE_0D8D_41C1_21415F280B92.url = https://rebrand.ly/St_Maries_Altar
+PopupWebFrameBehaviour_270AE295_289A_67A1_41BB_729D041BAAF7.url = https://rebrand.ly/St_Maries_Altar_Paintings
+PopupWebFrameBehaviour_09E18AFC_288A_A767_41AE_2A657639E204.url = https://rebrand.ly/St_Maries_Baptismal_Font
+PopupWebFrameBehaviour_34F5988D_289A_63A1_41B8_30C786D077BE.url = https://rebrand.ly/St_Maries_Bell_House
+PopupWebFrameBehaviour_321CC04F_2887_A2A1_41B3_30AAB349EDE6.url = https://rebrand.ly/St_Maries_Bells
+PopupWebFrameBehaviour_01D0976D_2886_ED61_41C4_D2A430C489C4.url = https://rebrand.ly/St_Maries_Boardroom
+PopupWebFrameBehaviour_01C0AA8B_288D_A7A1_41BA_B54A2BF78070.url = https://rebrand.ly/St_Maries_Boardroom
+PopupWebFrameBehaviour_01C96564_288E_ED67_41B6_C92F039F87AB.url = https://rebrand.ly/St_Maries_Boardroom
+PopupWebFrameBehaviour_00B1F4FF_288B_A361_41AA_7F24A10ECAA5.url = https://rebrand.ly/St_Maries_Boardroom
+PopupWebFrameBehaviour_AF2A0B87_288D_A5A1_41BA_08D0EB2D992D.url = https://rebrand.ly/St_Maries_Common_Area
+PopupWebFrameBehaviour_CC9E444A_DED4_6974_41E3_09D98B51F0ED.url = https://rebrand.ly/St_Maries_Community_Introduction
+PopupWebFrameBehaviour_3F9C64D5_2886_63A1_41A3_3FDDDB125A7B.url = https://rebrand.ly/St_Maries_Confessional_Rooms
+PopupWebFrameBehaviour_3FE7E64C_288E_AEA7_41BC_B85B67650081.url = https://rebrand.ly/St_Maries_Confessional_Rooms
+PopupWebFrameBehaviour_3A544374_28BA_A567_41B2_18E80031FD59.url = https://rebrand.ly/St_Maries_Confessional_Rooms
+PopupWebFrameBehaviour_3F571EA0_288E_BF9F_41B5_CDA502EFFF2C.url = https://rebrand.ly/St_Maries_Confessional_Rooms
+PopupWebFrameBehaviour_3F078B03_288A_A6A1_418F_69C9C83817FF.url = https://rebrand.ly/St_Maries_Confessional_Rooms
+PopupWebFrameBehaviour_361E4450_288A_E2BF_417C_B5D68072E01E.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_080D5AFC_289A_E767_41C3_BA3137088388.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_08F46E6B_2886_BF61_4191_968FA60A69CA.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_376EBA6C_288B_A767_41A7_C4ADF6F5B7CC.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_37A91F49_288F_FEA1_41C4_4FA9994D4B43.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_08F01A4F_2886_66A1_41B3_71B88342C7D5.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_363934D0_288E_63BF_4187_6C4BD7830327.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_084D5F17_2886_9EA1_416E_6B4585248115.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_376B8ECB_288A_7FA1_41AD_35D302B169C7.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_08136505_289E_A2A1_41BB_07E70CFA0966.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_08770D78_289D_BD6F_41B1_D5DCDBDEC94F.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_08B538EC_289A_6367_41C3_6D85FAF95B28.url = https://rebrand.ly/St_Maries_Consecration_Stones
+PopupWebFrameBehaviour_A985E5EC_288B_AD67_41B9_9A30819524FC.url = https://rebrand.ly/St_Maries_Heritage_Space
+PopupWebFrameBehaviour_014F848E_289A_A3A3_41BA_01651D01E3D6.url = https://rebrand.ly/St_Maries_Kitchen
+PopupWebFrameBehaviour_06230936_2887_A2E3_41C0_F3D88F36D9ED.url = https://rebrand.ly/St_Maries_Kitchen
+PopupWebFrameBehaviour_33A94E4E_289A_7EA3_41AC_17DDE8B404E3.url = https://rebrand.ly/St_Maries_Mosaic
+PopupWebFrameBehaviour_0996F707_288D_AEA1_41A0_FAFC2316D5D9.url = https://rebrand.ly/St_Maries_Organ
+PopupWebFrameBehaviour_3F9B001A_288A_62A3_41C2_FA18A269CFB2.url = https://rebrand.ly/St_Maries_Pieta
+PopupWebFrameBehaviour_044AA4F5_288E_E361_41C1_18D84B655622.url = https://rebrand.ly/St_Maries_Reception
+PopupWebFrameBehaviour_32D93D14_28FF_E2A7_4198_C04D8C78D723.url = https://rebrand.ly/St_Maries_Sacristy
+PopupWebFrameBehaviour_3147D892_28FA_A3A3_41BF_19815B735A9E.url = https://rebrand.ly/St_Maries_Sacristy
+PopupWebFrameBehaviour_CD71F08D_DEEC_290C_41EA_1A53AC6C0FAB.url = https://rebrand.ly/St_Maries_Statues
+PopupWebFrameBehaviour_3396E551_288D_E2A1_41B4_1A9C40486023.url = https://rebrand.ly/St_Patrick_Statue
+PopupWebFrameBehaviour_338A7754_288E_6EA7_41BC_11C13590F5A9.url = https://rebrand.ly/St_Patrick_Statue
+PopupWebFrameBehaviour_3357F2BE_2885_A7E3_4166_D93163ECFA5D.url = https://rebrand.ly/St_Teresa
+PopupWebFrameBehaviour_330096F2_288B_AF63_41B5_7EEB5FEA1F47.url = https://rebrand.ly/St_Teresa
+PopupWebFrameBehaviour_0BFFAACD_2986_A7A1_41BC_AFB4CD687878.url = https://rebrand.ly/Station_Eight
+PopupWebFrameBehaviour_0BFE4C6F_297E_E361_41B0_5CD978FE8D2E.url = https://rebrand.ly/Station_Eleven
+PopupWebFrameBehaviour_0A07B20E_298A_E6A3_419D_0E70B1B4F330.url = https://rebrand.ly/Station_Five
+PopupWebFrameBehaviour_0A56E8FF_298E_6361_41B0_B1B392BE4B28.url = https://rebrand.ly/Station_Four
+PopupWebFrameBehaviour_0CD988F6_288B_E363_41B9_9C25379E0735.url = https://rebrand.ly/Station_Fourteen
+PopupWebFrameBehaviour_0ACDDFE8_2886_BD6F_41C2_10BC4AC977FC.url = https://rebrand.ly/Station_Fourteen
+PopupWebFrameBehaviour_0A68434F_297A_66A1_4173_0C02C28D6917.url = https://rebrand.ly/Station_Nine
+PopupWebFrameBehaviour_0ADF0C46_298B_A2A3_41AE_EEED141863B9.url = https://rebrand.ly/Station_One
+PopupWebFrameBehaviour_0A07A24F_2986_66A1_41A1_DB3A252883AF.url = https://rebrand.ly/Station_Seven
+PopupWebFrameBehaviour_0A43C33B_298A_A6E1_41C1_9FD105AF3554.url = https://rebrand.ly/Station_Six
+PopupWebFrameBehaviour_0BE1D4D2_297A_E3A3_41A2_557EBE97C256.url = https://rebrand.ly/Station_Ten
+PopupWebFrameBehaviour_0A7D2E2A_2886_9EE3_41C0_01EE630D2991.url = https://rebrand.ly/Station_Thirteen
+PopupWebFrameBehaviour_0B939234_297A_A6E7_41C3_126E9F54B1AE.url = https://rebrand.ly/Station_Thirteen
+PopupWebFrameBehaviour_0A02EC60_298F_A29F_41A1_523EC6083BBB.url = https://rebrand.ly/Station_Three
+PopupWebFrameBehaviour_0A09ABB2_297A_65E3_41B0_72DE7A80208D.url = https://rebrand.ly/Station_Twelve
+PopupWebFrameBehaviour_0BEDD6B5_297E_6FE1_41C2_1696925D8CF9.url = https://rebrand.ly/Station_Twelve
+PopupWebFrameBehaviour_0ABB69ED_298E_6561_41A2_C5CE592661BC.url = https://rebrand.ly/Station_Two
+PopupWebFrameBehaviour_A8A13D5A_B866_B6C6_41E5_F6F5CFB9E9F6.url = https://rebrand.ly/exhibition_1
+PopupWebFrameBehaviour_A9A386C4_B862_93C2_41E5_3A105A78F9F4.url = https://rebrand.ly/exhibition_4
+PopupWebFrameBehaviour_A8AB4BEC_B861_B1C2_41C2_4CE21BC38F11.url = https://rebrand.ly/exhibition_5
+PopupWebFrameBehaviour_14D297B5_0234_7828_4184_5CB5D8FA1389.url = https://rebrand.ly/intro_heritage_hq
+PopupWebFrameBehaviour_AB0B6A57_B8F9_A61B_41A8_6451FFEC7F45.url = https://rebrand.ly/onyourdevice
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_77D03101_2F8A_62A1_41A3_58974ED49075.toolTip = Altar
+HotspotMapOverlayArea_7361D945_2F86_A2A1_41BE_7C9265AEC885.toolTip = Altar Paintings
+HotspotMapOverlayArea_795C46F4_2F86_6F67_41BE_DDF54B66DFD6.toolTip = Anthony
+HotspotMapOverlayArea_59CB8447_289A_62A1_41C1_1DAAAC7BCD0E.toolTip = Bell
+HotspotMapOverlayArea_5F3130F1_289F_A361_41B1_A1534C18F6DD.toolTip = Bellcote
+HotspotMapOverlayArea_5835C05C_288A_E2A7_41B8_4A02D4966336.toolTip = Boardroom
+HotspotMapOverlayArea_58E7352D_288E_A2E1_41B6_D2A3C040A4F7.toolTip = Boardroom
+HotspotPanoramaOverlayArea_D102D29C_DE54_690C_4199_15D2FAB1B38E.toolTip = Community
+HotspotMapOverlayArea_AEFE5E4F_2887_9EA1_41A1_0AD12B34AB11.toolTip = Community Area
+HotspotMapOverlayArea_52C854EB_28BA_E361_41A1_A9D95EFFEA1B.toolTip = Community Area
+HotspotMapOverlayArea_4953B342_2F86_66A3_41C5_79FC191B0811.toolTip = Confessional
+HotspotMapOverlayArea_48CD7345_2F8A_A6A1_41C0_5F943834517B.toolTip = Confessional
+HotspotMapOverlayArea_4F6FAC28_2F86_E2EF_41C3_742D91A998D3.toolTip = Confessional
+HotspotMapOverlayArea_41FBEA66_2F7B_A763_41B9_2C2EE794C590.toolTip = Consecration Stone
+HotspotMapOverlayArea_5F28973B_2F7A_EEE1_41B1_EC42202CC2F9.toolTip = Consecration Stone
+HotspotMapOverlayArea_5E099396_2F7E_65A3_419C_78870BB60A01.toolTip = Consecration Stone
+HotspotMapOverlayArea_42C714B2_2F8A_E3E3_41C2_FFEF3D18FA00.toolTip = Consecration Stone
+HotspotMapOverlayArea_413C7F4C_2F7D_9EA7_41B6_AB2135B193EA.toolTip = Consecration Stone
+HotspotMapOverlayArea_44F2E863_2F9E_6361_41B7_898370034123.toolTip = Consecration Stone
+HotspotMapOverlayArea_41240DDB_2F85_BDA1_41C1_A7B5E96D0835.toolTip = Consecration Stone
+HotspotMapOverlayArea_408963F3_2F86_E561_41A5_E001477AD1A7.toolTip = Consecration Stone
+HotspotMapOverlayArea_5D22BF52_2F8B_9EA3_4193_8DD7D4744E3F.toolTip = Consecration Stone
+HotspotMapOverlayArea_4BA16FBA_2F9B_FDE3_41BC_7D96985EB44C.toolTip = Consecration Stone
+HotspotPanoramaOverlayArea_1E3D8320_2722_058C_41B0_CF44E7ECF5C2.toolTip = Exhibition 1
+HotspotPanoramaOverlayArea_1B07036B_27E2_059D_41BF_870B01410862.toolTip = Exhibition 2
+HotspotPanoramaOverlayArea_1AEBF180_27E2_048B_41B0_EB205F7E8C2C.toolTip = Exhibition 3
+HotspotPanoramaOverlayArea_16358AE0_2722_048B_41AC_4B42A65C5E5C.toolTip = Exhibition 4
+HotspotPanoramaOverlayArea_0DEEAC98_273E_1CBB_41A8_BC868BE184C3.toolTip = Exhibition 5
+HotspotPanoramaOverlayArea_0DE0BE92_2723_FC8F_4176_392417E0EF20.toolTip = Exhibition 6
+HotspotMapOverlayArea_451999A0_2F86_A59F_41BB_7526888A4BF2.toolTip = Font
+HotspotMapOverlayArea_782747A8_2F8E_6DEF_41B6_CF464CE9746D.toolTip = Gerard
+HotspotMapOverlayArea_6507E998_2F8A_65AF_4170_2F4F9338D7B6.toolTip = I
+HotspotMapOverlayArea_693A4FB9_2F85_9DE1_41C1_9050F8FD136A.toolTip = II
+HotspotMapOverlayArea_6A73C568_2F86_6D6F_41C5_F6CF02F9915E.toolTip = III
+HotspotMapOverlayArea_686CAF84_2F87_9DA7_41B3_DD3511479EA7.toolTip = IV
+HotspotMapOverlayArea_10A2EFB2_28BE_BDE3_41B4_84C1B307EBA4.toolTip = IX
+HotspotMapOverlayArea_79D803FC_2F85_E567_41AF_F950EAAFD10E.toolTip = Jean
+HotspotMapOverlayArea_798BE0AE_2F9B_A3E3_41C5_F03E9E4D4499.toolTip = Jesus
+HotspotMapOverlayArea_78CBD0E6_2F8D_A363_41A5_C7F8B54048A2.toolTip = Joseph
+HotspotMapOverlayArea_51447E9E_2885_9FA3_41C3_FD12F0BB64D6.toolTip = Kitchen
+HotspotPanoramaOverlayArea_D1D02859_DEAC_7914_41B1_E2FAA82DF11A.toolTip = Look At This!
+HotspotMapOverlayArea_7BACF266_2F9D_E763_41B6_BD1D9CFEAAD3.toolTip = Mary
+HotspotMapOverlayArea_761D1AF6_2F9E_E763_41B2_CDEA4FAD27D3.toolTip = Mary
+HotspotMapOverlayArea_5D2A734D_2885_A6A1_41C4_41006BA17412.toolTip = Mosaic
+HotspotMapOverlayArea_4AE6F623_2F8B_AEE1_41C3_B5DDE4776A3A.toolTip = Organ
+HotspotMapOverlayArea_74E5A651_2F8D_AEA1_41C0_DE3CCD5AE703.toolTip = Patrick
+HotspotMapOverlayArea_4EFA2362_2FBA_6563_41B0_7ECE5BD4E754.toolTip = Pieta
+HotspotMapOverlayArea_732D608A_2FBA_A3A3_41B4_4891A56C0422.toolTip = Pulpit
+HotspotMapOverlayArea_515CD389_28BE_65A1_41C2_E6B5174EAACE.toolTip = Recption
+HotspotMapOverlayArea_5C5F3C6C_2886_E367_419A_4928A6B2FD73.toolTip = Sacristy
+HotspotPanoramaOverlayArea_D149CFBA_DE54_5714_41AB_64099456BAF5.toolTip = Stations of the Cross
+HotspotPanoramaOverlayArea_D137CF2E_DE54_D70C_41E2_E0B2B60C5752.toolTip = Statues
+HotspotMapOverlayArea_6081FE93_2FFF_9FA1_41B5_A3028E2DF4B7.toolTip = Teresa
+HotspotMapOverlayArea_6FD73779_2F85_ED61_41BE_CF29B2F94056.toolTip = V
+HotspotMapOverlayArea_650D2322_2FBA_66E3_41AE_31A2AD11BB44.toolTip = VI
+HotspotMapOverlayArea_68D0AE43_2F87_BEA1_41C3_0B01E0C5D5BF.toolTip = VII
+HotspotMapOverlayArea_6B82CC14_2F86_62A7_41BA_FEDC078F7568.toolTip = VIII
+HotspotMapOverlayArea_163F0E1A_28BA_BEA3_41AD_2862AF10DF30.toolTip = X
+HotspotMapOverlayArea_145AC420_28BA_629F_41C4_94ACE7B7309F.toolTip = XI
+HotspotMapOverlayArea_6BD57856_28BB_A2A3_41B7_2415D4FD6985.toolTip = XII
+HotspotMapOverlayArea_69AE77CC_2F85_ADA7_41B4_2D54BDAD339E.toolTip = XIII
+HotspotMapOverlayArea_68BA69FB_2F8D_A561_41BA_697D12EDC0BB.toolTip = XIV
+HotspotPanoramaOverlayArea_5151E529_44AA_B30D_41A4_92898292FAAB.toolTip = view outside
+HotspotPanoramaOverlayArea_5203BB5E_44AF_F707_41A3_F4C26489988D.toolTip = view outside
+HotspotPanoramaOverlayArea_639CEEAF_27E5_FC95_41BA_A3D8CC667DCE.toolTip = view outside
+HotspotPanoramaOverlayArea_502D463F_44B7_B105_41CE_0395D9F3DB82.toolTip = view outside
+HotspotPanoramaOverlayArea_57371DCF_44BB_B305_41C4_54E6377FBC07.toolTip = view outside
+HotspotPanoramaOverlayArea_52DA9AA4_4555_513B_4190_708AB409853F.toolTip = view outside
+
+### URL
+overlay_1F0ACB9A_0924_7B77_41A0_C5FE6F51516D.url = https://rebrand.ly/Exhibition_2
+overlay_18A1312E_0924_47AF_41A7_E7E5D6F350C7.url = https://rebrand.ly/Exhibition_3
+overlay_19311724_0924_CB53_4159_F85621C8C496.url = https://rebrand.ly/Exhibition_4
+overlay_1A4C8C0B_095C_3D55_417F_3B3743079EEC.url = https://rebrand.ly/Exhibition_5
+overlay_1A92D761_097C_CBD5_41A2_BEF976AE1727.url = https://rebrand.ly/Exhibition_6
+overlay_1F3F41D5_093C_C6FD_4169_46EEB0A34C96.url = https://rebrand.ly/exhibition_1
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_AD3040F0_B8F9_A215_41C3_73DC49E7C1DA.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_0.png
+imlevel_AD3060F1_B8F9_A217_41E0_21A6E469810D.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_1.png
+imlevel_AD3010F1_B8F9_A217_41D5_5CE6BFA69382.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_2.png
+imlevel_AD3000F1_B8F9_A217_41E3_0E635F640EA3.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_3.png
+imlevel_AD3030F2_B8F9_A215_41D8_D9CE242F056F.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_4.png
+
+### Title
+panorama_D1AA974F_DE74_570C_41C0_02A660D00365.label = Aerial
+panorama_DEF24276_D529_DEE3_41E1_1CD41B4A3F7C.label = Community Space
+panorama_DEF3E183_D528_5A21_41D1_0EBD28E22E9A.label = Exhibition 1
+panorama_DEF3A577_D528_7AE1_41E6_F54B38CF0C2C.label = Exhibition 2
+panorama_DEF311FE_D528_3DE3_41E7_F0C25B08DAA6.label = Exhibition 3
+panorama_DEF3B944_D528_CA27_41DE_FF20E7C821B2.label = Exhibition 4
+panorama_DEF35DD5_D528_4A21_41A2_12BFC9C9E43A.label = Exhibition 5
+panorama_DEF27A29_D529_CE61_419A_D8A8CC5F1E10.label = Exhibition 6
+panorama_C4777830_D538_4A7F_41C6_5C2268E8F65F.label = GS__7013
+panorama_D838573C_D538_C667_41E1_06061FCB57DD.label = GS__7015
+panorama_DAFCD0BB_D568_FA61_41E8_72C007C9E88C.label = GS__7016
+panorama_D8391FA4_D538_C667_41DB_28520FA04211.label = GS__7038
+panorama_D8386B5B_D538_CE21_41D8_3A1340C003B9.label = GS__7061
+panorama_D838679A_D538_C623_41B3_34C149DB5A7C.label = GS__7062
+panorama_D838F383_D538_3E21_41C2_A4CC2D7B2095.label = GS__7063
+panorama_D838FFA1_D538_4661_41E5_13C7215CE498.label = GS__7064
+panorama_D8380B26_D538_4E60_41E3_D7D8DEEF83B0.label = GS__7066
+panorama_D8383773_D538_46E1_41E9_665233C69BD4.label = GS__7067
+panorama_D839E407_D538_5A21_41D5_D4B624E81A7E.label = GS__7068
+panorama_D8385085_D538_3A21_41E9_0FEC1CC7D4C4.label = GS__7069
+panorama_D838CCB0_D539_CA7F_41E1_77F784B291E7.label = GS__7070
+panorama_D8381901_D539_CA21_41BC_A95FD6BCAC01.label = GS__7071
+panorama_D839F5C2_D539_FA23_41AC_02F2E9E14419.label = GS__7072
+panorama_D838519C_D539_DA27_41DD_41CD9368B081.label = GS__7073
+panorama_D839B980_D538_4A1F_41C1_9881C5C2279E.label = GS__7075
+panorama_DED2BABA_D52B_CE63_41D8_F01E6ACA2791.label = GS__7115
+panorama_DEF60761_D52B_C6E1_41A4_2F50AB0C11B3.label = GS__7116
+panorama_DEF68EE3_D52B_C7E1_41DE_2293A7630EF6.label = GS__7119
+panorama_DEF55A76_D528_4EE3_41E0_7B5A3E43673B.label = GS__7120
+panorama_DEF59620_D528_461F_41E3_DEA53A234629.label = GS__7121
+panorama_DEF5A977_D528_4AE1_41DA_6D3C99F6C13B.label = GS__7124
+panorama_DEF5F095_D528_DA21_41CE_5DAA17A3C622.label = GS__7126
+panorama_DEF5ACA0_D528_CA1F_41D7_635B72A0B4F1.label = GS__7128
+panorama_DEF2750B_D528_DA21_41A0_DD4306636CEC.label = GS__7131
+panorama_DEF29C7A_D528_4AE3_41BD_841804AE4E2A.label = GS__7133
+panorama_DEF2DAE3_D528_4FE1_41E2_445443BA8BA8.label = GS__7138
+panorama_DEF2F68C_D529_C627_41C9_9848C52014FD.label = GS__7139
+panorama_DEF2EE3C_D529_C667_41C3_E635B653411F.label = GS__7142
+panorama_DEF2B5F0_D529_C5FF_41E1_2E44261022F8.label = GS__7145
+panorama_DEF3A9AF_D528_4A61_41A2_2E14DE4F0824.label = GS__7149
+panorama_DEF39D5C_D528_4A27_41CC_301AA9F90EA9.label = GS__7152
+panorama_DEF3E520_D528_DA1F_41D6_3168B06434FB.label = GS__7154
+panorama_DEF25237_D528_FE61_41A9_512E663EE4A1.label = GS__7155
+panorama_DEF3BEE7_D528_C7E1_41C6_799FC89DAFDC.label = GS__7156
+panorama_DEF3CAE4_D528_CFE7_41C4_03ADEEFB524A.label = GS__7157
+panorama_DEF3D69A_D528_4623_41D3_93A06CB83AC0.label = GS__7158
+panorama_DEF35251_D528_5E21_41DF_4F09517400D9.label = GS__7160
+panorama_DEF31E4C_D528_4627_41E8_F06A236CB28B.label = GS__7161
+panorama_DEF3FA14_D528_4E27_41DB_7D7FC6B94746.label = GS__7162
+panorama_DEF315ED_D528_45E1_41CF_1815A161F7CC.label = GS__7163
+panorama_D8388ADC_D538_4E27_41BE_C06989329F62.label = Gallery - Organ
+panorama_DEF5D889_D528_CA21_41E7_D74A722B75D3.label = High Altar
+panorama_DEF29103_D528_3A21_41D1_10A1F4DB64D2.label = Our Lady Altar
+panorama_DEF5ED9E_D528_4A23_41D5_CF282E609E02.label = Pieta
+panorama_DEF59530_D528_3A7F_41E3_27A913FDD8EE.label = Sacred Heart Altar
+panorama_DEF5A1D7_D528_7A21_41D8_5A0DE6868A32.label = Statue - St Anthony
+panorama_DEF53F5E_D528_4623_41D7_DA34A8E193EA.label = Statue - St Gerard
+panorama_DEF6B32A_D52B_DE63_41A5_D9BFA064150D.label = Statue - St John
+panorama_D83F9326_D538_DE63_41DC_468EF80C9244.label = Statue - St Joseph
+
+panorama_DEF29811_D528_4A21_41E7_6B619CF28D6F.label = Statue - St Patrick
+panorama_DEF2F3C9_D528_7E21_41CB_1A1B6120BEDB.label = Statue - St Teresa
+panorama_F3EA9AAF_FD9E_E946_41C1_98906EEDC4B1.label = boardroom 1
+panorama_F05557A5_FD9D_677A_41C9_76DEDFEB539F.label = boardroom 2
+map_090E6B40_0725_DBD3_4176_AF82C003FF40.label = floorplan
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+Button_13555123_0214_1828_4180_FAB66827368D.toolTip = Map
+
+## Tour
+
+### Description
+tour.description = Welcome to Halton's Heritage HQ, at St Marie's
+
+### Title
+tour.name = HeritageHQ
